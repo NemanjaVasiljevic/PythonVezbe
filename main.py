@@ -1,3 +1,1 @@
-print("Uradjen pull")
-
-print("Vaske gej")
+print("Hello pull")
